@@ -1,4 +1,4 @@
-Modeling generalization, similiarity, and Bayesian Inference referenced from Joshua B. Tenenbaum and Thomas L. Griffiths (2001).\
+Modeling generalization, similiarity, and Bayesian Inference referenced from Joshua B. Tenenbaum and Thomas L. Griffiths (2001).
 The Python code implements the model described in this paper using Bayesian Inference. 
 
 Reference to the Paper:
